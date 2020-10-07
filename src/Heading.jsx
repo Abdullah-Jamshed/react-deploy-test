@@ -7,7 +7,6 @@ class Heading extends Component {
         return (
             <div>
                 <h1>Todo Task</h1>
-                <p>deploy changes</p>
             </div>
         );
     }
