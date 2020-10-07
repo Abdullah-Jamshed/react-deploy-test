@@ -1,0 +1,12 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+#root {
+  display: flex;
+  background-color: rgb(48, 184, 184);
+  min-height: 100vh;
+  justify-content: center;
+  /* align-items: center; */
+  /* padding: 50px; */
+}

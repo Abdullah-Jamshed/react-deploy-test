@@ -1,0 +1,22 @@
+.inpField {
+    background-color: rgb(230, 227, 227);
+    text-align: center;
+    padding: 20px;
+}
+
+
+.inpField input{
+    height: 30px;
+    border: 1px solid rgb(214, 214, 214);
+    outline: none;
+    padding: 5px;
+    font-size: 17px;
+}
+
+.inpField button{
+    height: 40px;
+    border: 1px solid rgb(214, 214, 214);
+    width:  80px;
+    font-size: 17px;
+    outline: none;
+}
