@@ -29,6 +29,9 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Installing Packages
         run:  npm install
+      
+      - name: Create Build
+        run: npm run build
     
       - name: Installing surge 
         run: npm install -g surge
